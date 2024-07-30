@@ -1,0 +1,257 @@
+Microsoft Windows [Version 10.0.22621.3958]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Triveni Butham\Documents\react\reactapppg\src\Reactprojectcmr>git add .
+warning: in the working copy of 'login/cloud-drizzle-fill (1).svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/cloud-drizzle-fill.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/cloud-sun.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/cloud.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/cloudy.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/cloud-drizzle-fill.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/cloud-rain.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/cloud.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/cloudy.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/search.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/snow.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/sun.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/tsunami.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/umbrella-fill.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/water.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/wind.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'login/img/x.svg', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\Triveni Butham\Documents\react\reactapppg\src\Reactprojectcmr>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   1-removebg-preview.png
+        new file:   About.js
+        new file:   App40.js
+        new file:   BMI+Scale.jpg
+        new file:   CheckBMI.js
+        new file:   Contact.js
+        new file:   Home.js
+        new file:   N13.jpg
+        new file:   N18.jpg
+        new file:   SignInSignUp.js
+        new file:   api banner 1.webp
+        new file:   api banner2.webp
+        new file:   api banner4.webp
+        new file:   bmi.webp
+        new file:   bmi1.png
+        new file:   bmi4.jpg
+        new file:   food.png
+        new file:   image (1).jpg
+        new file:   image.jpg
+        new file:   index.js
+        new file:   login/1.png
+        new file:   login/Api.js
+        new file:   login/App12.js
+        new file:   login/Edamam API Developer portal - Applications.mhtml
+        new file:   login/Food12.js
+        new file:   login/FormValue.js
+        new file:   login/HomeScreen.js
+        new file:   "login/Lock \302\267 Bootstrap Icons.jpeg"
+        new file:   login/Movies.js
+        new file:   login/N19.jpg
+        new file:   login/Navigation.js
+        new file:   login/News.js
+        new file:   login/SignInSignUp.css
+        new file:   login/SignInSignUp.js
+        new file:   login/SignInSignUp/Home.js
+        new file:   login/SignInSignUp/SignInSignUp.css
+        new file:   login/SignInSignUp/SignInSignUp.js
+        new file:   login/SignUp.js
+        new file:   login/Signin.js
+        new file:   login/Style1.css
+        new file:   login/UserRouting.js
+        new file:   login/Weather1.js
+        new file:   login/api-logo4.png
+        new file:   login/bmi-weight-.webp
+        new file:   login/bmi5.webp
+        new file:   login/c1.jpg
+        new file:   login/c2.webp
+        new file:   login/cloud-drizzle-fill (1).svg
+        new file:   login/cloud-drizzle-fill.svg
+        new file:   login/cloud-sun.svg
+        new file:   login/cloud.svg
+        new file:   login/cloudy.svg
+        new file:   login/image (41).png
+        new file:   login/img/WeatherAPI.js
+        new file:   login/img/api-banner.jpg
+        new file:   login/img/c1.png
+        new file:   login/img/cloud-drizzle-fill.svg
+        new file:   login/img/cloud-rain.svg
+        new file:   login/img/cloud.svg
+        new file:   login/img/cloudy.svg
+        new file:   login/img/contact1.jpg
+        new file:   login/img/h1.jpg
+        new file:   login/img/h2.jpg
+        new file:   login/img/home.jpg
+        new file:   login/img/i.png
+        new file:   login/img/image (8).jpg
+        new file:   login/img/logo5.jpg
+        new file:   login/img/logop.jpg
+        new file:   login/img/news.jpg
+        new file:   login/img/news2.jpg
+        new file:   login/img/news3.webp
+        new file:   login/img/search.svg
+        new file:   login/img/snow.svg
+        new file:   login/img/sun.svg
+        new file:   login/img/tsunami.svg
+        new file:   login/img/umbrella-fill.svg
+        new file:   login/img/w7.jpg
+        new file:   login/img/water.svg
+        new file:   login/img/weather.png
+        new file:   login/img/weather1.png
+        new file:   login/img/wind.svg
+        new file:   login/img/x.svg
+        new file:   login/log1.webp
+        new file:   login/log2.webp
+        new file:   login/log3.jpg
+        new file:   login/log4.webp
+        new file:   login/log5.jpg
+        new file:   login/login.png
+        new file:   login/lucky pic.jpg
+        new file:   login/m.jpg
+        new file:   login/products.js
+        new file:   login/sea1.jpg
+        new file:   login/sea2.jpg
+        new file:   login/sea3.jpg
+        new file:   login/sea6.jpg
+        new file:   login/w.jpg
+        new file:   login/w2.webp
+        new file:   login/w3.webp
+        new file:   social-removebg-preview.png
+        new file:   social.webp
+        new file:   traning pics.jpg
+        new file:   weather.png
+
+
+C:\Users\Triveni Butham\Documents\react\reactapppg\src\Reactprojectcmr>git commit -m "third commit"
+[master (root-commit) 4448b8c] third commit
+ 102 files changed, 51069 insertions(+)
+ create mode 100644 1-removebg-preview.png
+ create mode 100644 About.js
+ create mode 100644 App40.js
+ create mode 100644 BMI+Scale.jpg
+ create mode 100644 CheckBMI.js
+ create mode 100644 Contact.js
+ create mode 100644 Home.js
+ create mode 100644 N13.jpg
+ create mode 100644 N18.jpg
+ create mode 100644 SignInSignUp.js
+ create mode 100644 api banner 1.webp
+ create mode 100644 api banner2.webp
+ create mode 100644 api banner4.webp
+ create mode 100644 bmi.webp
+ create mode 100644 bmi1.png
+ create mode 100644 bmi4.jpg
+ create mode 100644 food.png
+ create mode 100644 image (1).jpg
+ create mode 100644 image.jpg
+ create mode 100644 index.js
+ create mode 100644 login/1.png
+ create mode 100644 login/Api.js
+ create mode 100644 login/App12.js
+ create mode 100644 login/Edamam API Developer portal - Applications.mhtml
+ create mode 100644 login/Food12.js
+ create mode 100644 login/FormValue.js
+ create mode 100644 login/HomeScreen.js
+ create mode 100644 "login/Lock \302\267 Bootstrap Icons.jpeg"
+ create mode 100644 login/Movies.js
+ create mode 100644 login/N19.jpg
+ create mode 100644 login/Navigation.js
+ create mode 100644 login/News.js
+ create mode 100644 login/SignInSignUp.css
+ create mode 100644 login/SignInSignUp.js
+ create mode 100644 login/SignInSignUp/Home.js
+ create mode 100644 login/SignInSignUp/SignInSignUp.css
+ create mode 100644 login/SignInSignUp/SignInSignUp.js
+ create mode 100644 login/SignUp.js
+ create mode 100644 login/Signin.js
+ create mode 100644 login/Style1.css
+ create mode 100644 login/UserRouting.js
+ create mode 100644 login/Weather1.js
+ create mode 100644 login/api-logo4.png
+ create mode 100644 login/bmi-weight-.webp
+ create mode 100644 login/bmi5.webp
+ create mode 100644 login/c1.jpg
+ create mode 100644 login/c2.webp
+ create mode 100644 login/cloud-drizzle-fill (1).svg
+ create mode 100644 login/cloud-drizzle-fill.svg
+ create mode 100644 login/cloud-sun.svg
+ create mode 100644 login/cloud.svg
+ create mode 100644 login/cloudy.svg
+ create mode 100644 login/image (41).png
+ create mode 100644 login/img/WeatherAPI.js
+ create mode 100644 login/img/api-banner.jpg
+ create mode 100644 login/img/c1.png
+ create mode 100644 login/img/cloud-drizzle-fill.svg
+ create mode 100644 login/img/cloud-rain.svg
+ create mode 100644 login/img/cloud.svg
+ create mode 100644 login/img/cloudy.svg
+ create mode 100644 login/img/contact1.jpg
+ create mode 100644 login/img/h1.jpg
+ create mode 100644 login/img/h2.jpg
+ create mode 100644 login/img/home.jpg
+ create mode 100644 login/img/i.png
+ create mode 100644 login/img/image (8).jpg
+ create mode 100644 login/img/logo5.jpg
+ create mode 100644 login/img/logop.jpg
+ create mode 100644 login/img/news.jpg
+ create mode 100644 login/img/news2.jpg
+ create mode 100644 login/img/news3.webp
+ create mode 100644 login/img/search.svg
+ create mode 100644 login/img/snow.svg
+ create mode 100644 login/img/sun.svg
+ create mode 100644 login/img/tsunami.svg
+ create mode 100644 login/img/umbrella-fill.svg
+ create mode 100644 login/img/w7.jpg
+ create mode 100644 login/img/water.svg
+ create mode 100644 login/img/weather.png
+ create mode 100644 login/img/weather1.png
+ create mode 100644 login/img/wind.svg
+ create mode 100644 login/img/x.svg
+ create mode 100644 login/log1.webp
+ create mode 100644 login/log2.webp
+ create mode 100644 login/log3.jpg
+ create mode 100644 login/log4.webp
+ create mode 100644 login/log5.jpg
+ create mode 100644 login/login.png
+ create mode 100644 login/lucky pic.jpg
+ create mode 100644 login/m.jpg
+ create mode 100644 login/products.js
+ create mode 100644 login/sea1.jpg
+ create mode 100644 login/sea2.jpg
+ create mode 100644 login/sea3.jpg
+ create mode 100644 login/sea6.jpg
+ create mode 100644 login/w.jpg
+ create mode 100644 login/w2.webp
+ create mode 100644 login/w3.webp
+ create mode 100644 social-removebg-preview.png
+ create mode 100644 social.webp
+ create mode 100644 traning pics.jpg
+ create mode 100644 weather.png
+
+C:\Users\Triveni Butham\Documents\react\reactapppg\src\Reactprojectcmr>git remote add origin https://github.com/triveni78/react-project.git
+
+C:\Users\Triveni Butham\Documents\react\reactapppg\src\Reactprojectcmr>git push -u origin master
+Enumerating objects: 102, done.
+Counting objects: 100% (102/102), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (101/101), done.
+Writing objects: 100% (102/102), 17.05 MiB | 375.00 KiB/s, done.
+Total 102 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3/3), done.
+To https://github.com/triveni78/react-project.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+C:\Users\Triveni Butham\Documents\react\reactapppg\src\Reactprojectcmr>
+C:\Users\Triveni Butham\Documents\react\reactapppg\src\Reactprojectcmr>^A^A
+
+
